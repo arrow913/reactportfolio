@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/arrow913/reactportfolio/precache-manifest.dc370f33b3cb4d2c8d02c2b321c29d15.js"
+  "/reactportfolio/precache-manifest.6840aa449efe84fdac52545da2db0e76.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/arrow913/reactportfolio/index.html", {
+workbox.routing.registerNavigationRoute("/reactportfolio/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
