@@ -71,7 +71,11 @@ let resumeData = {
       {
         "name":"project1",
         "description":"SoundFinder",
+<<<<<<< HEAD
         "imgurl":"https://github.com/arrow913/reactportfolio/blob/main/build/images/Screen%20Shot%202020-09-21%20at%209.16.35%20AM.png?raw=true"
+=======
+        "imgurl":"/build/images/Screen Shot 2020-09-21 at 9.16.35 AM.png"
+>>>>>>> 9e8952f21a5e7bb9b1189c9dffed24bfabb04bca
       },
       {
         "name":"project2",
