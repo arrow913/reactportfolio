@@ -71,22 +71,22 @@ let resumeData = {
       {
         "name":"project1",
         "description":"SoundFinder",
-        "imgurl":"/images/Screen Shot 2020-09-21 at 9.16.35 AM.png"
+        "imgurl":"../public/images/Screen Shot 2020-09-21 at 9.16.35 AM.png"
       },
       {
         "name":"project2",
         "description":"HearthStone",
-        "imgurl":"/images/HearthstoneApp.png"
+        "imgurl":"/public/images/HearthstoneApp.png"
       },
       {
         "name":"prodject 3",
         "description":"LightFinder",  
-        "imgurl":"/images/coming soon.jpeg"
+        "imgurl":"/public/images/coming soon.jpeg"
       },
       {
         "name":"project4",
         "description":"",
-        "imgurl":"/images/coming soon.jpeg"
+        "imgurl":"/public/images/coming soon.jpeg"
       }
     ],
     
