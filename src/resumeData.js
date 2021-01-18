@@ -71,7 +71,7 @@ let resumeData = {
       {
         "name":"project1",
         "description":"SoundFinder",
-        "imgurl":"../public/images/Screen Shot 2020-09-21 at 9.16.35 AM.png"
+        "imgurl":"/build/images/Screen Shot 2020-09-21 at 9.16.35 AM.png"
       },
       {
         "name":"project2",
