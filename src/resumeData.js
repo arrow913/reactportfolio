@@ -24,7 +24,7 @@ let resumeData = {
       ],
     "aboutme":"",
     "address":"Tenneesse",
-    "website":"https://github.com/arrow913",
+    "url":"https://github.com/arrow913",
     "education":[
       {
         "UniversityName":"The Insitute of Vanderbuilt Boot Camp",
@@ -71,22 +71,22 @@ let resumeData = {
       {
         "name":"project1",
         "description":"SoundFinder",
-        "imgurl":"../public/images/Screen Shot 2020-09-21 at 9.16.35 AM.png"
+        "imgurl":"https://github.com/arrow913/reactportfolio/blob/main/build/images/Screen%20Shot%202020-09-21%20at%209.16.35%20AM.png?raw=true"
       },
       {
         "name":"project2",
         "description":"HearthStone",
-        "imgurl":"/public/images/HearthstoneApp.png"
+        "imgurl":"https://github.com/arrow913/reactportfolio/blob/main/build/images/HearthstoneApp.png?raw=true"
       },
       {
         "name":"prodject 3",
         "description":"LightFinder",  
-        "imgurl":"/public/images/coming soon.jpeg"
+        "imgurl":"/https://github.com/arrow913/reactportfolio/blob/main/build/images/coming%20soon.jpeg?raw=true/coming soon.jpeg"
       },
       {
         "name":"project4",
         "description":"",
-        "imgurl":"/public/images/coming soon.jpeg"
+        "imgurl":"/https://github.com/arrow913/reactportfolio/blob/main/build/images/coming%20soon.jpeg?raw=true/coming soon.jpeg"
       }
     ],
     
