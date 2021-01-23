@@ -71,26 +71,25 @@ let resumeData = {
       {
         "name":"project1",
         "description":"SoundFinder",
-<<<<<<< HEAD
-        "imgurl":"https://github.com/arrow913/reactportfolio/blob/main/build/images/Screen%20Shot%202020-09-21%20at%209.16.35%20AM.png?raw=true"
-=======
-        "imgurl":"/build/images/Screen Shot 2020-09-21 at 9.16.35 AM.png"
->>>>>>> 9e8952f21a5e7bb9b1189c9dffed24bfabb04bca
+        "imgurl":"https://github.com/arrow913/reactportfolio/blob/gh-pages/images/Screen%20Shot%202020-09-21%20at%209.16.35%20AM.png?raw=true",
+        "#modal-01":"https://arrow913.github.io/soundfinder/"
       },
+    
       {
         "name":"project2",
         "description":"HearthStone",
-        "imgurl":"https://github.com/arrow913/reactportfolio/blob/main/build/images/HearthstoneApp.png?raw=true"
+        "imgurl":"?https://github.com/arrow913/reactportfolio/blob/gh-pages/images/HearthstoneApp.png?raw=true=true",
+        "#modal-01":"https://project2madness.herokuapp.com/"
       },
       {
         "name":"prodject 3",
-        "description":"LightFinder",  
-        "imgurl":"/https://github.com/arrow913/reactportfolio/blob/main/build/images/coming%20soon.jpeg?raw=true/coming soon.jpeg"
+        "description":"https://github.com/arrow913/reactportfolio/blob/main/public/images/powerpoint.png",  
+        "imgurl":"https://desolate-island-57465.herokuapp.com/"
       },
       {
         "name":"project4",
         "description":"",
-        "imgurl":"/https://github.com/arrow913/reactportfolio/blob/main/build/images/coming%20soon.jpeg?raw=true/coming soon.jpeg"
+        "imgurl":"https://raw.githubusercontent.com/arrow913/reactportfolio/gh-pages/images/coming%20soon.jpeg"
       }
     ],
     
