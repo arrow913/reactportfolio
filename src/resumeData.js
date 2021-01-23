@@ -78,18 +78,20 @@ let resumeData = {
       {
         "name":"project2",
         "description":"HearthStone",
-        "imgurl":"?https://github.com/arrow913/reactportfolio/blob/gh-pages/images/HearthstoneApp.png?raw=true=true",
+        "imgurl":"https://github.com/arrow913/reactportfolio/blob/gh-pages/images/HearthstoneApp.png?raw=true=true",
         "#modal-01":"https://project2madness.herokuapp.com/"
       },
       {
         "name":"prodject 3",
-        "description":"https://github.com/arrow913/reactportfolio/blob/main/public/images/powerpoint.png",  
-        "imgurl":"https://desolate-island-57465.herokuapp.com/"
+        "description":"LightFinder",  
+        "imgurl":"https://github.com/arrow913/reactportfolio/blob/85ed9085791aabe93833f869f7c9e527a84731e0/public/images/powerpoint.png?raw=true",
+        "#modal-01":"https://project2madness.herokuapp.com/"
       },
       {
         "name":"project4",
         "description":"",
-        "imgurl":"https://raw.githubusercontent.com/arrow913/reactportfolio/gh-pages/images/coming%20soon.jpeg"
+        "imgurl":"https://raw.githubusercontent.com/arrow913/reactportfolio/gh-pages/images/coming%20soon.jpeg",
+        "#modal-01":"https://project2madness.herokuapp.com/"
       }
     ],
     
